@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.7a1465ea.css",
+    "main.js": "/static/js/main.dbead4ec.js",
+    "static/js/453.31530e33.chunk.js": "/static/js/453.31530e33.chunk.js",
+    "static/media/bgQuiz.avif": "/static/media/bgQuiz.c05ff618bca35b8a6647.avif",
+    "index.html": "/index.html",
+    "main.7a1465ea.css.map": "/static/css/main.7a1465ea.css.map",
+    "main.dbead4ec.js.map": "/static/js/main.dbead4ec.js.map",
+    "453.31530e33.chunk.js.map": "/static/js/453.31530e33.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7a1465ea.css",
+    "static/js/main.dbead4ec.js"
+  ]
+}
