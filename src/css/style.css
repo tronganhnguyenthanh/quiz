@@ -8,7 +8,7 @@ body{
  background-size:cover;   
 }
 .text-heading{
-  width:6%;
+  width:15%;
   height:auto;
   margin:10px;
   text-align:center;
@@ -22,9 +22,10 @@ body{
 }
 
 .responsive-quiz{
-  margin-top:15%;
-  width:100%;
+  width:50%;
   background-color:mediumpurple;
+  margin:auto;
+  margin-top:15%;
 }
 
 @media (max-width:768px){
@@ -33,5 +34,8 @@ body{
   }
   .text-heading-responsive{
     font-size:19px;
-  }  
+  } 
+  .responsive-quiz{
+    width:100%;
+  } 
 }
