@@ -25,7 +25,7 @@ const Quiz = () => {
    <Container>
     <ToastContainer/>
     <div className="responsive-quiz">
-      <Card className="m-2">
+      <Card className="m-0 p-1">
         <Row>
           <Col lg="12">
             <div className="text-heading">{quizzes[index].id}</div>
