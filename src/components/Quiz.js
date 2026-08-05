@@ -17,6 +17,7 @@ const Quiz = () => {
    }
    if(value === correct_answer || Number(value) === correct_answer){
     setIndex(index + 1)
+    setValue("")
    }else{
      toast.error("Wrong answer", {position:"top-center"})
    } 
@@ -44,6 +45,7 @@ const Quiz = () => {
                   label={item}
                   value={item}
                   name="quiz"
+                  checked={value === item}
                   onChange={handleOnChange}
                 />
               )
