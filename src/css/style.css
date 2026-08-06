@@ -43,3 +43,9 @@ body{
    background-size:100% 100vh;
   }
 }
+
+@media (max-width:576px){
+  .text-heading-responsive{
+    font-size:13px;
+  } 
+}
